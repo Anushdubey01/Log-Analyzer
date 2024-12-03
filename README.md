@@ -30,14 +30,17 @@ The goal of this script is to:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/log-analysis-script.git
-   cd log-analysis-script
+   git clone https://github.com/Anushdubey01/Log-Analyzer.git
+   cd Log-Analyzer
    ```
 
 2. **Ensure Python 3 is installed**:
    ```bash
    python3 --version
    ```
+
+3. **Install any additional dependencies (if applicable)**:
+   If your script depends on any external libraries, include instructions here.
 
 ---
 
